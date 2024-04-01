@@ -2,3 +2,8 @@
     color: rgb(191, 57, 209);
     font-size: small;
   }
+
+#body {
+    background-image: url(fundo.png);
+    text-align: center;
+}  
