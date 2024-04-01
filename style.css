@@ -3,7 +3,10 @@
     font-size: small;
   }
 
-#body {
+body{
     background-image: url(fundo.png);
     text-align: center;
 }  
+
+
+
