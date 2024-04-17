@@ -5,11 +5,12 @@ body {
 header {
     color: rgb(240, 66, 240);
     font-size: 65px;
-    background-color:rgba(230, 141, 255, 0.5)
+    background-color:rgba(151, 102, 165, 0.5)
 }    
 p {
   color: rgb(191, 57, 209);
-  font-size: small;
+  font-size: 45px;
+    background-color: aqua;
 }
 h1 {
     border-radius: 12px;
